@@ -1,0 +1,5 @@
+.size {
+	box-sizing: border-box;
+	height: 100vh;
+	max-width: 500px;
+}
