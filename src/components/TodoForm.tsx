@@ -28,7 +28,7 @@ const TodoForm = () => {
 					<input
 						type='text'
 						className='form-control'
-						placeholder='What do you you wnat to do?'
+						placeholder='What do you you want to do?'
 						value={text}
 						onChange={e => setText(prev => e.target.value)}
 					/>
